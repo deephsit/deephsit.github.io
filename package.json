@@ -1,0 +1,40 @@
+{
+  "name": "faqever",
+  "version": "1.0.0",
+  "description": "angular4faq",
+  "main": "index.js",
+  "dependencies": {
+    "@angular/animations": "^4.0.0",
+    "@angular/common": "^4.0.0",
+    "@angular/compiler": "^4.0.0",
+    "@angular/compiler-cli": "^4.0.0",
+    "@angular/core": "^4.0.0",
+    "@angular/forms": "^4.0.0",
+    "@angular/http": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0",
+    "@angular/platform-browser-dynamic": "^4.0.0",
+    "@angular/platform-server": "^4.0.0",
+    "@angular/router": "^4.0.0",
+    "install": "^0.8.7",
+    "rxjs": "^5.2.0",
+    "typescript": "^2.2.1",
+    "zone.js": "^0.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deephsit/faqever.git"
+  },
+  "keywords": [
+    "faqever"
+  ],
+  "author": "Ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deephsit/faqever/issues"
+  },
+  "homepage": "https://github.com/deephsit/faqever#readme"
+}
